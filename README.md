@@ -7,6 +7,7 @@ This project presents a real-time traffic prediction system built using deep lea
 ![image alt](https://github.com/Nandhagopal2912/Traffimap-lstm/blob/9384786bf681119b5f25fc25a211c049a2cadd0f/trffimap_snap_2.jpg)
 
 
+
 The system integrates:
 
 A trained deep learning model (LSTM)
